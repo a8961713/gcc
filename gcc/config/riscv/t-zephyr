@@ -59,6 +59,7 @@ MULTILIB_REQUIRED = \
 march=rv32i_zicsr_zifencei/mabi=ilp32 \
 march=rv32im_zicsr_zifencei/mabi=ilp32 \
 march=rv32im_zicsr_zifencei_zba_zbb_zbc_zbs/mabi=ilp32 \
+march=rv32imc_zicsr_zifencei/mabi=ilp32 \
 march=rv32imac_zicsr_zifencei/mabi=ilp32 \
 march=rv32imafc_zicsr_zifencei/mabi=ilp32f \
 march=rv32imafd_zicsr_zifencei/mabi=ilp32d \
